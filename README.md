@@ -2,7 +2,7 @@
 
 ## Description
 
-A base template that I use in my frontend workflow. 
+A basic html boilerplate used for frontend projects. 
 
 ## Getting Started
 

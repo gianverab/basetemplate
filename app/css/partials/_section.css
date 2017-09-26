@@ -1,0 +1,17 @@
+.section {
+    padding: 0 1.5em;
+    &-title {
+        text-align: center;
+        font-size: responsive 22px 32px;
+        font-range: 320px 1024px;
+        font-weight: 500;
+        margin: 0.5em 0;
+        padding-top: 1.5em;
+    }
+    &-paragraph {
+        font-size: responsive 16px 18px;
+        font-range: 320px 1024px;
+        line-height: 1.6;
+        margin-top: 0;
+    }
+}

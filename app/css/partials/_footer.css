@@ -1,0 +1,13 @@
+.footer {
+    background-color: var(--color-dark);
+    color: #fff;
+    padding: 1em;
+    margin-top: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    &-legal {
+        font-size: 0.8em;
+        font-weight: 300;
+    }
+}

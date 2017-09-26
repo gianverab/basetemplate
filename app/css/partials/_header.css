@@ -1,0 +1,26 @@
+.header {
+    padding: 2em 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &-logo {
+        margin: 0;
+        font-size: 1.8em;
+        display: flex;
+        flex-flow: column wrap;
+        align-items: center;
+        font-weight: 400;
+        a {
+          display: flex;
+          text-decoration: none;
+          text-indent: -9999px;
+          color: #1f1f21;
+          font-weight: 500;
+          background: url(../img/logo.svg) no-repeat;
+          background-size: cover;
+          width: 128px;
+          height: 128px;
+          margin-top: 1em;
+        }
+    }
+}
